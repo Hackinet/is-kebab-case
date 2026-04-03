@@ -2,7 +2,6 @@
 
 [![npm version](https://img.shields.io/npm/v/is-kebab-case.svg)](https://www.npmjs.com/package/is-kebab-case)
 [![npm downloads](https://img.shields.io/npm/dm/is-kebab-case.svg)](https://www.npmjs.com/package/is-kebab-case)
-[![bundle size](https://img.shields.io/bundlephobia/minzip/is-kebab-case)](https://bundlephobia.com/package/is-kebab-case)
 [![license](https://img.shields.io/npm/l/is-kebab-case.svg)](https://github.com/Hackinet/is-kebab-case/blob/master/LICENSE)
 
 > Check if a string is kebab-case

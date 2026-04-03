@@ -1,6 +1,6 @@
 {
   "name": "is-kebab-case",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Check if a string is kebab-case",
   "type": "module",
   "exports": {
